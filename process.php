@@ -104,7 +104,7 @@ function process_civicrm_caseTypes(&$caseTypes) {
  * @link http://wiki.civicrm.org/confluence/display/CRMDOC/hook_civicrm_alterSettingsFolders
  */
 function process_civicrm_alterSettingsFolders(&$metaDataFolders = NULL) {
-  _process_civix_civicrm_alterSettingsFolders($metaDataFolders);
+//_process_civix_civicrm_alterSettingsFolders($metaDataFolders);
 }
 
 function process_civicrm_buildForm($formName, &$form)
